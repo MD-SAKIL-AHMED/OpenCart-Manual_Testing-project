@@ -52,26 +52,6 @@ The following modules and features of the OpenCart application were tested:
 
 ---
 
-### **Steps to Implement**
-1. Save this code as `README.md`.
-2. Place your screenshots in the `Screenshots/` folder with the filenames:
-   - `Login_Module.png`
-   - `Checkout_Module.png`
-   - `Report_Summary.png`
-3. Push your repository to GitHub:
-   ```bash
-   git add .
-   git commit -m "Add README.md and screenshots"
-   git push origin main
-
-
----
-
-### How to Use
-1. Copy the above content.
-2. Paste it into a file named `README.md` in your project folder.
-3. Replace placeholders like `yourusername`, `yourname@example.com`, and file paths with your actual details.
-4. Ensure your screenshots are named and placed correctly in the `Screenshots/` directory.
 
 
 

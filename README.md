@@ -49,6 +49,20 @@ The following modules and features of the OpenCart application were tested:
 - **Documentation**: MS Excel, PDF
 
 ---
+## **Screenshots**
+
+### 1. Test Scenarios
+![Test Scenarios](Screenshots/test_scenarios.PNG)
+
+
+### 2. Requirements Traceability Matrix (RTM)
+![RTM](Screenshots/rtm.PNG)
+
+### 3. Bug Report
+![Bug Report](Screenshots/bug_report.PNG)
+
+### 4. Test Summary
+![Test Summary](Screenshots/test_summary.PNG)
 
 ---
 
